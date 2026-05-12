@@ -53,7 +53,7 @@ layers:
   - .
   - {t: /, s: '?'}
   - $$mdi:apple-keyboard-shift$$
-  - {t: Rgb, h: toggle}
+  - {t: '$$mdi:transfer$$', type: trans}
   - Symbol
   - $$mdi:apple-keyboard-option$$
   - LEFT WIN
